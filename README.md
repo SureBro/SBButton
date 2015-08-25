@@ -5,7 +5,7 @@ SBButton is a subclass of UIButton with some extra properties such as different 
 ![View it in action](https://cloud.githubusercontent.com/assets/13963558/9470694/52b6b470-4b77-11e5-8d7d-f4f6620d49c3.gif)
 
 # Features
-1. No code required. You can set every property directly from the Attributes Inspector and view changes without running your code. **If you want to set background color by using an image, you will need to set it in code**
+1. No code required. You can set every property directly from the Attributes Inspector and view changes without running your code. *Except when you want to set background color by using an image as a reference. Woops*
  
 2. Different background colors for different button states.
   
@@ -27,3 +27,5 @@ SBButton is a subclass of UIButton with some extra properties such as different 
 3. Set Properties in your Attributes Inspector and you are done. 
 
 ![](https://cloud.githubusercontent.com/assets/13963558/9470512/8c08e208-4b76-11e5-8a9a-f3a838c7904c.png "Edit directly from the Attributes Inspector")
+
+#### -by [Surebro](https://www.surebro.com) 
