@@ -1,6 +1,9 @@
 # SBButton
 SBButton is a subclass of UIButton with some extra properties such as different background for different button states, outline or fill color mode, animate background color when the button changes states and many more. The best part is all these properties are editable in the Attributes Inspector so you don't need to edit your code.
 
+# View it in Action
+![View it in action](https://cloud.githubusercontent.com/assets/13963558/9470694/52b6b470-4b77-11e5-8d7d-f4f6620d49c3.gif)
+
 # Features
 
 1. Different background colors for different button states.
