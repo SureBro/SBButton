@@ -5,18 +5,18 @@ SBButton is a subclass of UIButton with some extra properties such as different 
 ![View it in action](https://cloud.githubusercontent.com/assets/13963558/9470694/52b6b470-4b77-11e5-8d7d-f4f6620d49c3.gif)
 
 # Features
-
-1. Different background colors for different button states.
+1. No code required. You can set every property directly from the Attributes Inspector and view changes without running your code. **If you want to set background color by using an image, you will need to set it in code**
+ 
+2. Different background colors for different button states.
   
-2. Outline and Fill Mode 
+3. Outline and Fill Mode 
 
-3. Animate from one state to another ![Fill and Outline Mode](https://cloud.githubusercontent.com/assets/13963558/9470508/83a7e028-4b76-11e5-8f2e-2b4ab835851a.png)
+4. Animate from one state to another ![Fill and Outline Mode](https://cloud.githubusercontent.com/assets/13963558/9470508/83a7e028-4b76-11e5-8f2e-2b4ab835851a.png)
 
-4. If you choose outline mode, you can set the outline width.
+5. If you choose outline mode, you can set the outline width.
 
-5. In built corner radius support.
+6. In-built corner radius support.
 
-6. No code required. You can set every property directly from the Attributes Inspector and view changes without running your code. **If you want to set background color by using an image, you will need to set it in code**
 
 # How To Use
 
