@@ -7,7 +7,7 @@ SBButton is a subclass of UIButton with some extra properties such as different 
   
 2. Outline and Fill Mode 
 
-3. Animate from one state to another ![Fill and Outline Mode](https://lh3.googleusercontent.com/EdCT_Y0hXrXb93u2lXcfbPqgJbxKMiGssG-eHmkHoiNPVbqxr03TapUhfT7beam67WhlXiY253FeVYU=w1256-h574 "2 modes available")
+3. Animate from one state to another ![Fill and Outline Mode](https://cloud.githubusercontent.com/assets/13963558/9470508/83a7e028-4b76-11e5-8f2e-2b4ab835851a.png)
 
 4. If you choose outline mode, you can set the outline width.
 
@@ -21,6 +21,6 @@ SBButton is a subclass of UIButton with some extra properties such as different 
 
 2. Change your button's class to SBButton.
 
-3. Set Properties in your Attributes Inspector and you are done
+3. Set Properties in your Attributes Inspector and you are done. 
 
-![alt text](https://lh3.googleusercontent.com/zSv-0piDq_h33L1x0UMRD2pgbT4BnrMG9PUWSk3F3IUfU6Ywb1okGhJdBWS2FiY7DsP4jLa-v7BH-is=w1256-h574 "Edit directly from the Attributes Inspector")
+![](https://cloud.githubusercontent.com/assets/13963558/9470512/8c08e208-4b76-11e5-8a9a-f3a838c7904c.png "Edit directly from the Attributes Inspector")
