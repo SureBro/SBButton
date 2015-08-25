@@ -28,4 +28,9 @@ SBButton is a subclass of UIButton with some extra properties such as different 
 
 ![](https://cloud.githubusercontent.com/assets/13963558/9470512/8c08e208-4b76-11e5-8a9a-f3a838c7904c.png "Edit directly from the Attributes Inspector")
 
+# License
+SBButton is available under the MIT license. See the LICENSE file for more information.
+
+=================
+
 #### -by [Surebro](https://www.surebro.com) 
