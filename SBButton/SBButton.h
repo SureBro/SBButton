@@ -2,8 +2,8 @@
 //  SBButton.h
 //  SBButtonExample
 //
-//  Created by Chalamphong Pandey on 8/25/2558 BE.
-//  Copyright (c) 2558 Chalamphong Pandey. All rights reserved.
+//  Created by Surebro on 8/25/2558 BE.
+//  Copyright (c) 2558 Surebro. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

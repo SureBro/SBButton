@@ -14,7 +14,7 @@
 		56CBC7641B8CA6B000CB44AC /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 56CBC7631B8CA6B000CB44AC /* Images.xcassets */; };
 		56CBC7671B8CA6B000CB44AC /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 56CBC7651B8CA6B000CB44AC /* LaunchScreen.xib */; };
 		56CBC7731B8CA6B000CB44AC /* SBButtonExampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 56CBC7721B8CA6B000CB44AC /* SBButtonExampleTests.m */; };
-		56CBC7851B8CBBA600CB44AC /* SBButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 56CBC7841B8CBBA600CB44AC /* SBButton.m */; };
+		56DD99BE1B8D634100445CCF /* SBButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 56DD99BD1B8D634100445CCF /* SBButton.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,8 +41,8 @@
 		56CBC76C1B8CA6B000CB44AC /* SBButtonExampleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SBButtonExampleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		56CBC7711B8CA6B000CB44AC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		56CBC7721B8CA6B000CB44AC /* SBButtonExampleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SBButtonExampleTests.m; sourceTree = "<group>"; };
-		56CBC7831B8CBBA600CB44AC /* SBButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SBButton.h; sourceTree = "<group>"; };
-		56CBC7841B8CBBA600CB44AC /* SBButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SBButton.m; sourceTree = "<group>"; };
+		56DD99BC1B8D634100445CCF /* SBButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SBButton.h; path = ../SBButton/SBButton.h; sourceTree = "<group>"; };
+		56DD99BD1B8D634100445CCF /* SBButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SBButton.m; path = ../SBButton/SBButton.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,8 +126,8 @@
 		56CBC77C1B8CA6C000CB44AC /* SBButton */ = {
 			isa = PBXGroup;
 			children = (
-				56CBC7831B8CBBA600CB44AC /* SBButton.h */,
-				56CBC7841B8CBBA600CB44AC /* SBButton.m */,
+				56DD99BC1B8D634100445CCF /* SBButton.h */,
+				56DD99BD1B8D634100445CCF /* SBButton.m */,
 			);
 			name = SBButton;
 			sourceTree = "<group>";
@@ -234,7 +234,7 @@
 			files = (
 				56CBC7591B8CA6B000CB44AC /* AppDelegate.m in Sources */,
 				56CBC75F1B8CA6B000CB44AC /* ViewController.m in Sources */,
-				56CBC7851B8CBBA600CB44AC /* SBButton.m in Sources */,
+				56DD99BE1B8D634100445CCF /* SBButton.m in Sources */,
 				56CBC7561B8CA6B000CB44AC /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
