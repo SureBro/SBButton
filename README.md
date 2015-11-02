@@ -33,4 +33,4 @@ SBButton is available under the MIT license. See the LICENSE file for more infor
 
 =================
 
-#### With <3 by [Surebro](http://www.surebro.com) 
+#### With ♥ by [Surebro](http://www.surebro.com) 
